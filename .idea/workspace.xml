@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d086c4c4-7fb5-43cd-b6e4-e5553f708973" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Blank" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Branch-Pull.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blank" beforeDir="false" afterPath="$PROJECT_DIR$/blank" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +58,7 @@
       <updated>1614006095051</updated>
       <workItem from="1614006096129" duration="508000" />
       <workItem from="1614006644248" duration="210000" />
+      <workItem from="1614006857516" duration="306000" />
     </task>
     <servers />
   </component>
@@ -73,9 +78,9 @@
       <screen x="0" y="25" width="1920" height="1087" />
     </state>
     <state x="0" y="147" key="SettingsEditor/0.25.1920.1087@0.25.1920.1087" timestamp="1614006312105" />
-    <state x="281" y="486" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614006600801">
+    <state x="281" y="486" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614006859826">
       <screen x="0" y="25" width="1920" height="1087" />
     </state>
-    <state x="281" y="486" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1920.1087@0.25.1920.1087" timestamp="1614006600801" />
+    <state x="281" y="486" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1920.1087@0.25.1920.1087" timestamp="1614006859826" />
   </component>
 </project>
